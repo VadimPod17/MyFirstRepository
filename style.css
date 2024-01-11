@@ -1,0 +1,56 @@
+p {
+	color: #e621e1;
+}
+
+body {
+	background-color: black;
+}
+
+#topbar {
+	min-height: 300px;
+	width: 100%;
+	background-color: #230b5c;
+}
+
+#topbar p {
+	font-size: 6vmin;
+	display: inline-block;
+	margin-top: 6%;
+	margin-left: 10%;
+}
+
+#witherstorm {
+	float: left;
+	margin-left: 2%;
+	margin-top: 5px;
+	max-width: 50%;
+	max-height: 50%;
+	// transform: rotate(5deg);
+}
+
+#mainsection {
+	height: 60%;
+	width: 90%;
+	background-color: #3406a1;
+	border-radius: 25px;
+	margin-left: 5%;
+	margin-top: 5%;
+}
+
+p {
+	font-size: 4vmin;
+	display: block;
+	margin-left: 3%;
+	margin-right: 3%;
+	word-break: keep-all;
+}
+
+#mainbutton {
+	margin-left: 5%;
+	margin-bottom: 2%;
+	background-color: black;
+	color: #e621e1;
+	padding: 15px 20px;
+	display: inline-block;
+	font-size: 24px;
+}
